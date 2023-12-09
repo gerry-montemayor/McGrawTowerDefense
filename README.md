@@ -11,8 +11,8 @@ downloading the zip, check the install.md file. Good luck!
 
 Authors:
 Chris Fernandes,
-Gerardo Montemayor
-Rolando Rodríguez,
+Gerardo Montemayor,
+Rolando Rodríguez, and 
 Alex Spero
 
 
