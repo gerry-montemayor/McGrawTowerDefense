@@ -10,10 +10,10 @@ downloading the zip, check the install.md file. Good luck!
 
 
 Authors:
-Chris Fernandes (cpf44)
-Gerardo Montemayor (gm547)
-Rolando Rodríguez (rar339)
-Alex Spero (as3782)
+Chris Fernandes,
+Gerardo Montemayor
+Rolando Rodríguez,
+Alex Spero
 
 
 
