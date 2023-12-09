@@ -1,5 +1,7 @@
 # final-project-3110
 
+Welcome to McGraw Tower Defense! This is a Cornell-inspired tower defense game. 
+Use a selection of five unique bears and try to beat all 30 levels. Good luck!
 
 
 Authors:
