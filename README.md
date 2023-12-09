@@ -16,5 +16,7 @@ Rolando Rodríguez, and
 Alex Spero
 
 
+<img width="1440" alt="introscreenpic" src="https://github.com/gerry-montemayor/McGrawTowerDefense/assets/144381191/d3690899-67b5-4891-b4ba-eb7973a43a7a">
 
-![MTDGamePic](https://github.com/gerry-montemayor/McGrawTowerDefense/assets/144381191/cad5cdc9-4f98-414d-a7ab-c6fb62ff125a)
+
+<img width="1440" alt="mtdpic" src="https://github.com/gerry-montemayor/McGrawTowerDefense/assets/144381191/cddf383d-78ea-4e7f-9fba-a5eaa5ab20f6">
