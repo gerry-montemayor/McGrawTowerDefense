@@ -2,7 +2,7 @@
 
 Welcome to McGraw Tower Defense! This is a Cornell-inspired tower defense game. 
 Use a selection of five unique bears and try to beat all 30 levels. For help with
-downloading the zip, check the install.md file. Good luck!
+getting started, check the install.md file. Good luck!
 
 
 Authors:
