@@ -1,8 +1,8 @@
 # McGrawTowerDefense
 
 Welcome to McGraw Tower Defense! This is a Cornell-inspired tower defense game. 
-Use a selection of five unique bears and try to beat all 30 levels. For help with
-getting started, check the install.md file. Good luck!
+Use a selection of five unique bears and try to beat all 30 levels. Beware, they're pretty difficult!
+For help with getting the game setup, check the install.md file. Good luck!
 
 
 Authors:
@@ -16,6 +16,8 @@ Alex Spero
 
 
 
+Check out some gameplay below!
 
-https://github.com/gerry-montemayor/McGrawTowerDefense/assets/144381191/60e17347-1862-4e0f-a6c6-c7d4e9926963
+
+https://github.com/gerry-montemayor/McGrawTowerDefense/assets/144381191/6e58b7ca-79ae-4534-bf6e-a7707e273717
 
