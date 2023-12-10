@@ -15,4 +15,7 @@ Alex Spero
 <img width="1440" alt="introscreenpic" src="https://github.com/gerry-montemayor/McGrawTowerDefense/assets/144381191/d3690899-67b5-4891-b4ba-eb7973a43a7a">
 
 
-<img width="1440" alt="mtdpic" src="https://github.com/gerry-montemayor/McGrawTowerDefense/assets/144381191/cddf383d-78ea-4e7f-9fba-a5eaa5ab20f6">
+
+
+https://github.com/gerry-montemayor/McGrawTowerDefense/assets/144381191/60e17347-1862-4e0f-a6c6-c7d4e9926963
+
