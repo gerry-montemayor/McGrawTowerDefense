@@ -1,9 +1,5 @@
 # McGrawTowerDefense
 
-This was a semester-long project for Cornell's Functional Programming Course.
-We wrote everything in OCaml, enjoy!
-
-
 Welcome to McGraw Tower Defense! This is a Cornell-inspired tower defense game. 
 Use a selection of five unique bears and try to beat all 30 levels. For help with
 downloading the zip, check the install.md file. Good luck!
